@@ -3,4 +3,4 @@ project(Task_26_2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Task_26_2 main.cpp src/PhoneContact.cpp)
+add_executable(Task_26_2 main.cpp src/PhoneContact.cpp src/Phone.cpp)
